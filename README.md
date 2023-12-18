@@ -19,5 +19,8 @@ Here, you'll find presentations from our guest speakers, available in PowerPoint
 ## Talk Recordings
 For those who wish to revisit our sessions or for members who were unable to attend, this section contains links to the recordings of our Townhall meetings. Available on platforms such as Zoom and YouTube, these recordings offer a full account of the proceedings and discussions of each session.
 
+Link to YouTube Recordings: https://www.youtube.com/@cameroontownhallforhealthc989
 
-Co-Moderators, Cameroon Townhall for Healthcare Professionals
+
+
+**Co-Moderators, Cameroon Townhall for Healthcare Professionals**
