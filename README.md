@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub repository for the Cameroon Townhall for Healthcare Professionals. This repository serves as a centralized hub for various materials and documents generated from our Townhall sessions, which are integral to shaping health policy in Cameroon.
 
+Link to Cameroon Townhall website: https://cameroontownhall.org/
+
 Link to YouTube Recordings: https://www.youtube.com/@cameroontownhallforhealthc989
 
 ## Meeting Minutes
